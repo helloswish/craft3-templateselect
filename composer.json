@@ -1,8 +1,8 @@
 {
-    "name": "superbig/craft3-templateselect",
+    "name": "swishdigital/craft3-templateselect",
     "description": "A fieldtype that allows you to select a template from a dropdown.",
     "type": "craft-plugin",
-    "version": "2.0.3",
+    "version": "2.0.3.1",
     "keywords": [
         "craft",
         "cms",
@@ -11,14 +11,14 @@
         "template select"
     ],
     "support": {
-        "docs": "https://github.com/sjelfull/craft3-templateselect/blob/master/README.md",
-        "issues": "https://github.com/sjelfull/craft3-templateselect/issues"
+        "docs": "https://github.com/swishdigital/craft3-templateselect/blob/master/README.md",
+        "issues": "https://github.com/swishdigital/craft3-templateselect/issues"
     },
     "license": "MIT",
     "authors": [
         {
-            "name": "Superbig",
-            "homepage": "https://superbig.co"
+            "name": "Swish Digital",
+            "homepage": "https://swishdigital.co"
         }
     ],
     "require": {
@@ -41,7 +41,7 @@
         "schemaVersion": "2.0.0",
         "hasCpSettings": false,
         "hasCpSection": false,
-        "changelogUrl": "https://raw.githubusercontent.com/sjelfull/craft3-templateselect/master/CHANGELOG.md",
+        "changelogUrl": "https://raw.githubusercontent.com/swishdigital/craft3-templateselect/master/CHANGELOG.md",
         "class": "superbig\\templateselect\\TemplateSelect"
     }
 }
